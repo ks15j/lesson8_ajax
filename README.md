@@ -14,9 +14,8 @@ In this project, we create a movie review website similar to IMDb. This website
 uses the IMDb API in order to generate it's data.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
-
+ https://ks15j.github.io/lesson8_ajax/
+ 
 ### Lessons Learned in the Assignment:
 1.	AJAX – Ajax allows client web pages to quickly exchange data with a web server.
     Additionally, it doesn’t even necessitate a reload of the webpage.
